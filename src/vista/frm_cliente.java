@@ -6,7 +6,7 @@ package vista;
 import modelo.Cliente;
 /**
  *
- * @author paiz2
+ * 
  */
 public class frm_cliente extends javax.swing.JFrame {
 Cliente cliente;
